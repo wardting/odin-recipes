@@ -1,0 +1,16 @@
+
+body {
+    background-color: wheat;
+    font-size: 17px;
+}
+
+h1,
+h3 {
+    background-color: rgb(236, 234, 195);
+}
+
+.main-ol {
+    background-color: rgb(236, 234, 195);
+    font-weight: bold;
+    font-size: 20px;
+}
